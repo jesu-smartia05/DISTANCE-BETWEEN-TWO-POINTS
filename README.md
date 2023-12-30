@@ -33,8 +33,7 @@ print("{:.2f}".format(p))
 
 ### OUTPUT:
 
-![image](https://github.com/jesu-smartia05/DISTANCE-BETWEEN-TWO-POINTS/assets/148514819/9e81f6ca-1797-4583-9722-8bd64a8fa6e3)
-
+![Screenshot 2023-12-30 161424](https://github.com/jesu-smartia05/DISTANCE-BETWEEN-TWO-POINTS/assets/148514819/c67b4a71-ada9-423a-b867-2eb102743686)
 
 ### RESULT:
 Completed successfully!
